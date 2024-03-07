@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+}
+
+header{
+    border: 2px solid burlywood;
+}
+.hero{
+    border: 2px solid burlywood;
+}
+.content{
+    border: 2px solid burlywood;
+}
